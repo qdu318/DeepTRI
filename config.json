@@ -1,0 +1,9 @@
+{
+    "W_nodes": "data/UVI/W_.csv",
+    "V_nodes": "data/UVI/V_TRI.csv",
+    "V_confirmed": "data/UVI/V_confirmed.csv",
+    "V_cured": "data/UVI/V_cured.csv",
+    "V_suspected": "data/UVI/V_suspected.csv",
+    "V_dead": "data/UVI/V_dead.csv",
+    "Weather": "data/Weather.npy"
+}
